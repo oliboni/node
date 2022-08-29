@@ -1,4 +1,3 @@
-import { response } from "express"
 import books from "../models/Book.js"
 
 class BookController {
